@@ -25,6 +25,7 @@
 
 # Project Structure
 
+```
 ├── app/
 │ ├── (auth)/ # Authentication related pages
 │ │ ├── onboarding/ # Onboarding page
@@ -62,3 +63,4 @@
 ├── components.json # Components configuration
 ├── middleware.ts # Middleware
 └── next.config.js # Next.js configuration
+```
